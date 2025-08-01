@@ -29,8 +29,9 @@ accelerate
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
-cd sentiment-analysis-bert
+git clone https://github.com/Arjun-Menon2110/Sentiment-Analysis-using-NLTK-and-BERT-and-Twitter-Data.git
+
+cd Sentiment-Analysis-using-NLTK-and-BERT-and-Twitter-Data
 ```
 
 2. Install dependencies:
